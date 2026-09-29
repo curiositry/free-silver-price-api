@@ -5,16 +5,16 @@
  <description>Bid price in CAD and USD</description>
  <link>https://www.curiositry.com/free-silver-price-api/</link>
  <atom:link href="https://www.curiositry.com/free-silver-price-api/api/v1/silver/bid/day/rss.xml" rel="self" type="application/rss+xml" />
- <lastBuildDate>Mon, 28 Sep 2026 04:30:12 +0000</lastBuildDate>
- <pubDate>Mon, 28 Sep 2026 04:30:12 +0000</pubDate>
+ <lastBuildDate>Tue, 29 Sep 2026 01:30:11 +0000</lastBuildDate>
+ <pubDate>Tue, 29 Sep 2026 01:30:11 +0000</pubDate>
  <ttl>180</ttl>
 
  <item>
-  <title>Silver price as of 04:30:12 UTC on 2026:09:28: $61.95 USD (87.68 CAD)</title>
-  <description>The bid price for silver was $61.95 USD (87.68 CAD) as of 2026-09-28T04:30:12.295697+00:00.</description>
+  <title>Silver price as of 01:30:11 UTC on 2026:09:29: $60.6 USD (85.9 CAD)</title>
+  <description>The bid price for silver was $60.6 USD (85.9 CAD) as of 2026-09-29T01:30:11.245718+00:00.</description>
   <link>https://www.curiositry.com/free-silver-price-api/</link>
-  <pubDate>Mon, 28 Sep 2026 04:30:12 +0000</pubDate>
-  <guid isPermaLink="false">1790569812.2957199</guid>
+  <pubDate>Tue, 29 Sep 2026 01:30:11 +0000</pubDate>
+  <guid isPermaLink="false">1790645411.2457466</guid>
  </item>
 
 </channel>
